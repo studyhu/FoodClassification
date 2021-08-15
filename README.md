@@ -1,4 +1,4 @@
 # FoodClassification
 FoodClassification based on paddleclas
 
-All iinformation at foodclassification.md
+All information at foodclassification.md
